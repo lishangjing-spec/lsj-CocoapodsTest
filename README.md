@@ -313,17 +313,17 @@ pod trunk push XXXXX.podspec
 
 ### .podspec 文件的属性介绍
 
-s.name：名称
-s.version：版本号
-s.summary：总结
-s.description：描述
-s.homepage：仓库主页（作用于用户访问仓库首页）
-s.license：开源协议
-s.author：作者
-s.source：用户pod时，依赖拉取的地址
-s.ios.deployment_target：依赖支持的版本号
-s.source_files：项目文件路径
-s.resource_bundles：项目资源文件路径
-s.dependency：项目绑定的其他三方依赖
-s.frameworks：项目绑定的系统 Framework
+* s.name：名称
+* s.version：版本号
+* s.summary：总结
+* s.description：描述
+* s.homepage：仓库主页（作用于用户访问仓库首页）
+* s.license：开源协议
+* s.author：作者
+* s.source：用户pod时，依赖拉取的地址
+* s.ios.deployment_target：依赖支持的版本号
+* s.source_files：项目文件路径
+* s.resource_bundles：项目资源文件路径
+* s.dependency：项目绑定的其他三方依赖
+* s.frameworks：项目绑定的系统 Framework
 
